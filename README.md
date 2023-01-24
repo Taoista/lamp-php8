@@ -1,7 +1,7 @@
 Watch the video 👇
 
 
-# docker-lamp
+# docker-lamp php8.0 o php7.2
 
 Docker with Apache, MySQL 7.0 u 8.0, PHPMyAdmin and PHP.
 
