@@ -1,10 +1,9 @@
 Watch the video 👇
 
-[![Watch the video](https://img.youtube.com/vi/v-r_12oezds/maxresdefault.jpg)](https://youtu.be/v-r_12oezds)
 
 # docker-lamp
 
-Docker with Apache, MySQL 8.0, PHPMyAdmin and PHP.
+Docker with Apache, MySQL 7.0 u 8.0, PHPMyAdmin and PHP.
 
 I use docker-compose as an orchestrator. To run these containers:
 
